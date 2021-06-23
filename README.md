@@ -1,3 +1,2 @@
-BOJ : [hsh8086](https://www.acmicpc.net/user/hsh8086), CodeForces : [hsh8086](https://codeforces.com/profile/hsh8086)
-<br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh8086)](https://solved.ac/hsh8086/)
+BOJ : [hsh8086](https://www.acmicpc.net/user/hsh8086), CodeForces : [hsh8086](https://codeforces.com/profile/hsh8086)
