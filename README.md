@@ -3,4 +3,4 @@
 <br/>
 BOJ : [hsh8086](https://www.acmicpc.net/user/hsh8086)
 <br/>
-Codeforces : [Sort](https://codeforces.com/profile/)
+Codeforces : [Sort](https://codeforces.com/profile/Sort)
